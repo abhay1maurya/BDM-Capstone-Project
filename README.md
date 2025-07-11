@@ -67,3 +67,6 @@ The project aims to identify challenges and propose actionable strategies for im
 1. Clone the repository:  
    ```bash
    git clone https://github.com/abhaymaurya/bdm-capstone.git
+
+### **License**  
+This project is licensed under the MIT License.  See the [LICENSE](LICENSE) file for details.
